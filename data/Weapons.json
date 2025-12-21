@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":1,"description":"[Sword] A light and easy-to-wield fry pan.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":110,"name":"Pan","note":"","params":[0,0,8,0,0,0,0,0],"price":300,"wtypeId":2},
+{"id":2,"animationId":2,"description":"[Ball] A power ball.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":118,"name":"Ball","note":"","params":[0,0,8,0,0,0,0,0],"price":300,"wtypeId":2}
+]
